@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Technical Program Manager opportunities.
 
-**Live:** https://rdammala.github.io/RD-TPM/
+**Live:** https://rdammala-org.github.io/RD-TPM/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
